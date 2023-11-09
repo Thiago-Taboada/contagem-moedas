@@ -1,3 +1,4 @@
+# Deprecated project.
 # contagem-moedas
 
 # insruções para o uso com a camera em tempo real:
